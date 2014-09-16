@@ -32,7 +32,7 @@
         fis release -wL
         ```
     
-    1. 启动fis内置服务器浏览项目
+    1. 打开新的命令行，启动fis内置服务器浏览项目
     
         ```bash
         fis server start
